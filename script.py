@@ -3,14 +3,15 @@ class script(object):
 
 Send me any Telegram file and choose appropriate option!
 
-<b>📌I'm From @TN57_BotZ 😇
-📌Any Problem Report @TN57_BotzSupport ⛑️</b>"""
+<b>📌I'm From @jetbots 😇
+📌 Want any bot for personal use or for any channel or group Contact @jettastic
+📌Any Problem Report @jetbots_support ⛑️</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @TN57_BotzSupport"
+    UPGRADE_TEXT = "CONTACT @jetbots"
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me😇. Support 🎉 @TN57_BotZ **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me😇. Support 🎉 @jetbots_support **"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
